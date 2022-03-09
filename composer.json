@@ -1,7 +1,7 @@
 {
     "name": "welingk/wowechat",
     "description": "test",
-    "type": "l",
+    "type": "library",
     "require": {
         "php": ">=7.1.3"
     },
